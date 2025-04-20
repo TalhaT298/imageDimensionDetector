@@ -2,7 +2,6 @@
 
 A clean and minimal web app to detect the **dimensions** and **approximate file size** of any image instantly. Built with **HTML**, **CSS**, and **Vanilla JavaScript**.
 
-![preview](https://via.placeholder.com/800x400.png?text=Image+Dimension+Detector+Preview)
 
 ---
 
@@ -44,7 +43,7 @@ A clean and minimal web app to detect the **dimensions** and **approximate file 
 
 ## 🔗 Live Demo
 
-👉 [Try it live](https://your-live-demo-link.com)
+👉 [Try it live](https://talhat298.github.io/imageDimensionDetector/)
 
 ---
 
