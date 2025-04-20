@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Dimension Detector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Image Dimension Detector</h1>
+        <div class="upload-area" id="dropArea">
+            <input type="file" id="fileInput" accept="image/*">
+            <label for="fileInput" class="upload-label">
+                <span class="drag-text">Drag & Drop your image here or click to browse</span>
+            </label>
+        </div>
+        <div class="result-area" id="resultArea">
+            <div class="image-preview" id="imagePreview"></div>
+            <div class="dimension-info" id="dimensionInfo">
+                <p>Upload an image to see its dimensions</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <a href="https://talhatarique.com" style="color: inherit; text-decoration: none;">talhatarique.com</a>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
